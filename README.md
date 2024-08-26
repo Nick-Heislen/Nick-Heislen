@@ -1,5 +1,5 @@
 # About Me
-  My name is **Nick Heislen**, I am a junior _CS/Software Developement major_ here at Missouri State.  I transferred here last winter from Benedictine College in Atchison, Kansas.
+  My name is **Nick Heislen**, I am a junior _CS/Software Development major_ here at Missouri State.  I transferred here last winter from Benedictine College in Atchison, Kansas.
 At Benedictine College I played football and studied *Criminology* for the first year.  I took my first programming class at Benedictine and loved it so I decided to pursue a degree
 in Computer Science.  As an athlete that used to think that I would never work in an office, I am always so impressed with my classmate's abilities and knowledge with technology in 
 which I lack to a certain degree.😁 However, I am super excited to learn more and try to advance my own skills by learning from courses and my classmates. I also love to push myself 
